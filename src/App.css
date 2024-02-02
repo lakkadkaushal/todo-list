@@ -1,0 +1,47 @@
+
+.mm
+{
+    justify-content: center;
+    display: flex;
+    /* width: 30%; */
+}
+.main-class
+{
+    background-color: black;
+    padding: 30px;
+    width: 450px;
+    text-align: center;
+    /* align-items: center; */
+
+}
+.main-class h1
+{
+    color: white;
+    text-align: center;
+    margin-top: 0px;
+}
+.p-manu
+{
+padding-bottom: 5px;
+}
+.p1-manu
+{
+    padding-bottom: 5px;
+}
+.p3-manu
+{
+    align-items: center;
+    padding-bottom: 10px;
+}
+.button
+{
+    padding: 5px 10px;
+    margin-right: 5px;
+    font-size: 14px;
+}
+.input
+{
+    width: 200px;
+    height: 20px;
+    margin-right: 5px;
+}
